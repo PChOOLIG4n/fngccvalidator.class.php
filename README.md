@@ -1,0 +1,2 @@
+# fngccvalidator.class.php
+Validator
